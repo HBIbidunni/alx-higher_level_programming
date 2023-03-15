@@ -24,7 +24,7 @@
 | 103-python.c                 | <ul><li>`void print_python_list(PyObject *p);`</li><li>`void print_python_bytes(PyObject *p);`</li></ul>|
 
 
-The Explaination of what each Python File does:
+The explanation of what each Python File does:
 --------------
 
 * **0. Squared simple**
