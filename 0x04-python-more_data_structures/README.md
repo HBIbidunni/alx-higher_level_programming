@@ -1,4 +1,5 @@
-> ## The solutions to ALX Project: 0x04. Python - More Data Structures: Set, Dictionary.
+> # The solutions to ALX Project: 0x04. Python - More Data Structures: Set, Dictionary.
+--------------------
 
 The core emphasises of this project focuses on sets and dictionaries in Python. I utilized these sets and dictionaries with the `lambda`, `map`, `filter`, and `reduce` methods. The Prototypes required for the files in this project include:
 
