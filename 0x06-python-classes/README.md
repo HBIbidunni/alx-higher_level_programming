@@ -1,4 +1,4 @@
-# ALX project: 0x06. Python - Classes and Objects
+# Python - Classes and Objects
 --------
 
 * In this project, the focus is on `object oriented programming`or (`OOP`) for short which is another way of organizing programs to combine data and functionality and wrap it inside an `object`. It differs from the procedure-oriented way of programming which designs programs around blocks of statements that manipulate data. 
