@@ -1,2 +1,2 @@
-# The solution to the ALX project: 0x08. Python - More Classes and Objects.
+# The ALX project solutions to: 0x08. Python - More Classes and Objects.
 -----------
