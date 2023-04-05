@@ -86,4 +86,3 @@ def matrix_mul(m_a, m_b):
         r1.append(r2)
 
     return r1
-
