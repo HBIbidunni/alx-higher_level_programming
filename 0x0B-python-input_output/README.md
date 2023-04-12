@@ -13,4 +13,4 @@
 * All files are executable.
 * The files lenght are tested using `wc`.
 
-> All comments and feedbacks on my[0x0B-python-input_output](./0x0B-python-input_output)codes are welcome. Kindly take a look. 
+> All comments and feedbacks on my codes are welcome. Kindly take a look. 
