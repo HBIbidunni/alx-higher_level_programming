@@ -6,7 +6,7 @@
 * All cases of <b>multiple inheritance</b> exhibit one or more <b>dynamic ordering</b> or <b>diamond relationships</b> (where at least one of the parent classes can be accessed through multiple paths from the bottommost class).
 * Some built-in functions it uses are: `isinstance`, `issubclass`, `type` and `super` built-in functions.
 
-> For instance: using the built-in functions above, the lines below prints <b>1</b> 
+> For instance: using the built-in functions above, the lines below prints `1` 
                     
                     class Base():
                         """ My base class """
