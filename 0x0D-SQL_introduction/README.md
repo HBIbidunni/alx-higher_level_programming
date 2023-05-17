@@ -1,4 +1,4 @@
-# SQL - Introduction
+# SQL - Introduction :eight_spoked_asterisk:
 ---------
 This is an introduction to the __ALX__ Project: __Structured Query Language(SQL)__. 
 
@@ -23,7 +23,7 @@ __For instance__: A sample on how __SELECT__ data is used is given below:
 
 Question: How do you __list__ all __users__ records with __age > 55__ in this table?
 
-+-------+-------------------------------------------------------------------------------------------------------------------------------+
+``` +-------+-------------------------------------------------------------------------------------------------------------------------------+
 | Table | Create Table                                                                                                                  |
 +-------+-------------------------------------------------------------------------------------------------------------------------------+
 | users | __CREATE TABLE__ `users` (
@@ -31,7 +31,7 @@ Question: How do you __list__ all __users__ records with __age > 55__ in this ta
   `name` varchar(256) __DEFAULT NULL__,
   `age` int(11) __DEFAULT NULL__
 ) __ENGINE__=InnoDB __DEFAULT CHARSET__=latin1 |
-+-------+-------------------------------------------------------------------------------------------------------------------------------+
+``` +-------+-------------------------------------------------------------------------------------------------------------------------------+
 
 Answer: __SELECT * FROM__ users __WHERE age > 55__;
 
