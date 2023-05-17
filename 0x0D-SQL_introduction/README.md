@@ -1,4 +1,4 @@
-# SQL - Introduction :eight_spoked_asterisk:
+# SQL - Introduction :tada::fireworks:
 ---------
 This is an introduction to the __ALX__ Project: __Structured Query Language(SQL)__. 
 
