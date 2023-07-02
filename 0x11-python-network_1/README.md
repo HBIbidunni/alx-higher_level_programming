@@ -38,23 +38,23 @@ Similarly, the __core of this project__ centers on:
 
 
 0. __What's my status? #0__
-Write a Python script that fetches __https://intranet.hbtn.io/status__
 
+- Write a Python script that fetches __https://intranet.hbtn.io/status__
 - You must use the package requests.
 - You are not allowed to import any other packages than requests.
 
 
 1. __Response header value #0__
-Write a Python script that takes in a URL, sends a request to the URL, and displays the value of the X-Request-Id variable found in the header of the response.
 
+- Write a Python script that takes in a URL, sends a request to the URL, and displays the value of the X-Request-Id variable found in the header of the response.
 - You must use the packages requests and sys.
 - You are not allowed to import any other packages than requests and sys.
 - The value of this variable is different for each request.
 - You don't need to check arguments passed to the script (number or type).
 
 2. __POST an email #0__
-Write a Python script that takes in a URL and an email address, sends a POST request to the passed URL with the email as a parameter, and finally displays the body of the response.
 
+- Write a Python script that takes in a URL and an email address, sends a POST request to the passed URL with the email as a parameter, and finally displays the body of the response.
 
 - The email must be sent in the email variable.
 - You must use the packages requests and sys.
@@ -62,31 +62,28 @@ Write a Python script that takes in a URL and an email address, sends a POST req
 - You don't need to check arguments passed to the script (number or type).
 
 3. __Error code #0__
-Write a Python script that takes in a URL, sends a request to the URL, and displays the body of the response.
 
-
+- Write a Python script that takes in a URL, sends a request to the URL, and displays the body of the response.
 - If the HTTP status code is greater than or equal to 400, print Error code: followed by the value of the HTTP status code.
 - You must use the packages requests and sys.
 - You are not allowed to import any other packages than requests and sys.
 - You don't need to check arguments passed to the script (number or type).
 
 4. __What's my status? #1__
-Write a Python script that fetches __https://intranet.hbtn.io/status__.
 
-
+- Write a Python script that fetches __https://intranet.hbtn.io/status__.
 - You must use the package requests.
 - You are not allowed to import any other packages than requests.
 
 
 5. __Response header value #1__
-Write a Python script that takes in a URL, sends a request to the URL, and displays the value of the variable X-Request-Id in the response header.
 
-
+- Write a Python script that takes in a URL, sends a request to the URL, and displays the value of the variable X-Request-Id in the response header.
 - You must use the packages requests and sys.
 - You are not allowed to import any other packages than requests and sys.
 - You don't need to check script arguments (number and type).
 
-
+---------
 > All comments, feedbacks and suggestions are highly welcome. Kindly take a look at my codes to get an insight. Scroll up :arrow_up:, please.
 
 ##  Author :black_nib:
