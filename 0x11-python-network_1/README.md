@@ -34,12 +34,11 @@ Similarly, the __core of this project__ centers on:
 
 ## 5 Project tasks descriptions :thought_balloon: :page_with_curl: :writing_hand:
 
-* The following examples form a part of the tasks in this project:
+-- The following examples form a part of the tasks in this project:
+
 
 0. __What's my status? #0__
-Write a Python script that fetches __https://intranet.hbtn.io/status__.
-
-__Requirements__:
+Write a Python script that fetches __https://intranet.hbtn.io/status__
 
 - You must use the package requests.
 - You are not allowed to import any other packages than requests.
@@ -47,8 +46,6 @@ __Requirements__:
 
 1. __Response header value #0__
 Write a Python script that takes in a URL, sends a request to the URL, and displays the value of the X-Request-Id variable found in the header of the response.
-
-__Requirements__:
 
 - You must use the packages requests and sys.
 - You are not allowed to import any other packages than requests and sys.
@@ -58,7 +55,6 @@ __Requirements__:
 2. __POST an email #0__
 Write a Python script that takes in a URL and an email address, sends a POST request to the passed URL with the email as a parameter, and finally displays the body of the response.
 
-__Requirements__:
 
 - The email must be sent in the email variable.
 - You must use the packages requests and sys.
@@ -68,7 +64,6 @@ __Requirements__:
 3. __Error code #0__
 Write a Python script that takes in a URL, sends a request to the URL, and displays the body of the response.
 
-__Requirements__:
 
 - If the HTTP status code is greater than or equal to 400, print Error code: followed by the value of the HTTP status code.
 - You must use the packages requests and sys.
@@ -78,15 +73,14 @@ __Requirements__:
 4. __What's my status? #1__
 Write a Python script that fetches __https://intranet.hbtn.io/status__.
 
-__Requirements__:
 
 - You must use the package requests.
 - You are not allowed to import any other packages than requests.
 
+
 5. __Response header value #1__
 Write a Python script that takes in a URL, sends a request to the URL, and displays the value of the variable X-Request-Id in the response header.
 
-__Requirements__:
 
 - You must use the packages requests and sys.
 - You are not allowed to import any other packages than requests and sys.
