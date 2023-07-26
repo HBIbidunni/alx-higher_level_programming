@@ -37,14 +37,14 @@ Similarly, the __core of this project__ centers on:
 -- The following examples form a part of the tasks in this project:
 
 
-0. __What's my status? #0__
+__0. What's my status? #0__
 
 - Write a Python script that fetches __https://intranet.hbtn.io/status__
 - You must use the package requests.
 - You are not allowed to import any other packages than requests.
 
 
-1. __Response header value #0__
+__1. Response header value #0__
 
 - Write a Python script that takes in a URL, sends a request to the URL, and displays the value of the X-Request-Id variable found in the header of the response.
 - You must use the packages requests and sys.
@@ -52,7 +52,7 @@ Similarly, the __core of this project__ centers on:
 - The value of this variable is different for each request.
 - You don't need to check arguments passed to the script (number or type).
 
-2. __POST an email #0__
+__2. POST an email #0__
 
 - Write a Python script that takes in a URL and an email address, sends a POST request to the passed URL with the email as a parameter, and finally displays the body of the response.
 
@@ -61,7 +61,7 @@ Similarly, the __core of this project__ centers on:
 - You are not allowed to import any other packages than requests and sys.
 - You don't need to check arguments passed to the script (number or type).
 
-3. __Error code #0__
+__3. Error code #0__
 
 - Write a Python script that takes in a URL, sends a request to the URL, and displays the body of the response.
 - If the HTTP status code is greater than or equal to 400, print Error code: followed by the value of the HTTP status code.
@@ -69,14 +69,14 @@ Similarly, the __core of this project__ centers on:
 - You are not allowed to import any other packages than requests and sys.
 - You don't need to check arguments passed to the script (number or type).
 
-4. __What's my status? #1__
+__4. What's my status? #1__
 
 - Write a Python script that fetches __https://intranet.hbtn.io/status__.
 - You must use the package requests.
 - You are not allowed to import any other packages than requests.
 
 
-5. __Response header value #1__
+__5. Response header value #1__
 
 - Write a Python script that takes in a URL, sends a request to the URL, and displays the value of the variable X-Request-Id in the response header.
 - You must use the packages requests and sys.
