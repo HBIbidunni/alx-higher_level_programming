@@ -1,7 +1,7 @@
 # The ALX Project: 0x15. JavaScript - Web jQuery
 ----------
 
-The __0x15. JavaScript - Web jQuery project__ is part of the curriculum at ![ALX](https://www.alxafrica.com/). 
+The __0x15. JavaScript - Web jQuery project__ is part of the curriculum at __ALX__. 
 In this project, I learned about __jQuery__, a __fast__, __small__, and __feature-rich JavaScript library__ that simplifies 
 __HTML document traversal__ and __manipulation__, __event handling__, and __animation__. 
 
